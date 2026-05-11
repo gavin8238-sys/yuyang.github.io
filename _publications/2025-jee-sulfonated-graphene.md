@@ -2,6 +2,7 @@
 title: "Study on the preparation and properties of sulfonated graphene-modified ultrafiltration membrane"
 collection: publications
 category: manuscripts
+order: 7
 permalink: /publication/2025-jee-sulfonated-graphene
 excerpt: 'Investigated the preparation and properties of sulfonated graphene-modified ultrafiltration membranes.'
 date: 2025-02-01

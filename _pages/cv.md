@@ -52,7 +52,8 @@ Internship
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  {% assign sorted_pubs = site.publications | sort: "order" %}
+  <ul>{% for post in sorted_pubs %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 

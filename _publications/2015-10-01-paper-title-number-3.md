@@ -2,6 +2,7 @@
 title: "Preparation and performance of bacteriostatic Ag@mSiO₂ modified polyvinylidene fluoride dual-layer ultrafiltration membrane"
 collection: publications
 category: manuscripts
+order: 3
 permalink: /publication/2025-wtt-ag-msio2-pvdf
 excerpt: 'Prepared bacteriostatic Ag@mSiO₂ modified PVDF dual-layer ultrafiltration membrane with enhanced performance.'
 date: 2025-06-01

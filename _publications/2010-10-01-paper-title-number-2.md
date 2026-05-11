@@ -2,6 +2,7 @@
 title: "Preparation of hydrophilic and antibacterial bifunctional PVDF ultrafiltration membrane based on pomegranate peel powder"
 collection: publications
 category: manuscripts
+order: 2
 permalink: /publication/2024-rfp-pomegranate-pvdf
 excerpt: 'Developed a novel hydrophilic and antibacterial bifunctional ultrafiltration membrane using pomegranate peel powder, offering a new approach to membrane modification for water pollution treatment.'
 date: 2025-07-01

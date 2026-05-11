@@ -2,6 +2,7 @@
 title: "Fabrication of poly(vinylidene fluoride)/mesoporous silica-supported silver nanoparticle dual-layer ultrafiltration membranes with long lasting antimicrobial function"
 collection: publications
 category: manuscripts
+order: 1
 permalink: /publication/2025-rfp-ag-msio2-pvdf
 excerpt: 'Prepared Ag@mSiO₂/PVDF dual-layer blended membranes through delayed casting, achieving long-term antibacterial functionality via the sustained release of silver nanoparticles.'
 date: 2025-08-01

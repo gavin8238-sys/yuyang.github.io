@@ -2,6 +2,7 @@
 title: "Preparation of dopamine/Ag-modified graphene oxide/polysulfone/poly(vinylidene fluoride) ultrafiltration membrane with hydrophilic and antibacterial dual function"
 collection: publications
 category: manuscripts
+order: 6
 permalink: /publication/2023-pat-dopamine-ag-go
 excerpt: 'Developed a dopamine/Ag-modified graphene oxide/polysulfone/PVDF ultrafiltration membrane with dual hydrophilic and antibacterial functions.'
 date: 2025-03-01

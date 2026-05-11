@@ -2,6 +2,7 @@
 title: "Dichlorvos residue and detection techniques in plant source food"
 collection: publications
 category: manuscripts
+order: 4
 permalink: /publication/2023-dichlorvos-detection
 excerpt: 'Review of dichlorvos residue and detection techniques in plant source food.'
 date: 2025-05-01

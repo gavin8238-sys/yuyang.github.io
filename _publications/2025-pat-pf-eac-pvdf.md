@@ -2,6 +2,7 @@
 title: "Preparation of PF-eAC/PVDF membrane with hydrophilic and antibacterial characteristics derived from paulownia flower"
 collection: publications
 category: manuscripts
+order: 8
 permalink: /publication/2025-pat-pf-eac-pvdf
 excerpt: 'Prepared a PF-eAC/PVDF membrane with hydrophilic and antibacterial characteristics derived from paulownia flower.'
 date: 2025-01-01

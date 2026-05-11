@@ -2,6 +2,7 @@
 title: "Study on the effect of delayed stripping of coagulation bath on the performance of PVDF ultrafiltration membrane"
 collection: publications
 category: manuscripts
+order: 5
 permalink: /publication/2025-ncm-delayed-stripping-pvdf
 excerpt: 'Investigated the effect of delayed stripping of coagulation bath on PVDF ultrafiltration membrane performance.'
 date: 2025-04-01

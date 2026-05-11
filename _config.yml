@@ -30,7 +30,8 @@ author:
   location         : "Hong Kong, China"
   employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
-  email            : "yyudi@connect.ust.hk" 
+  email            : "yyudi@connect.ust.hk"
+  email2           : "413120884@qq.com" 
 
   # Academic websites
   academia         : # URL
@@ -66,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yang-yu-981237383"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
